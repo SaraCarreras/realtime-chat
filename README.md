@@ -1,11 +1,15 @@
 # Real-Time Chat Application 
-<div style="width: 100%"><img style="width: 25%" align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="80" height=60"/>
-<img  style="width: 25%" align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="60"/>
 
-  <img  style="width: 25%" align="bottom" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="40" />
+<div style="width: 100%" align="center"><img style="width: 15%" align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="80" height=60"/>
+<img  style="width: 15%" align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="60"/>
+
+  <img  style="width: 15%" align="bottom" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="40" />
  
 
-  <img  style="width:20%" align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" alt="socketio" height="65"/>
+  <img  style="width:15%" align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" alt="socketio" height="65"/>
+
+
+  <img  style="width:15%" align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="65"/>
 </div>
 
 
