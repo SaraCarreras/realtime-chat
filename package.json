@@ -1,0 +1,15 @@
+{
+  "name": "realtime-chat",
+  "version": "1.0.0",
+  "description": "💬Welcome to my real-time chat application! This application allows users to log in and chat with others in real time. It's built with the aim to explore the potential of **SQL** databases and the versatility of **Socket.io**. The application leverages **Node.js** server for its backend and seamlessly integrates with Socket.io.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.19.0"
+  }
+}
