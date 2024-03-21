@@ -548,9 +548,33 @@ video {
   position: static;
 }
 
-.bg-green-400 {
+.relative {
+  position: relative;
+}
+
+.h-full {
+  height: 100%;
+}
+
+.w-80 {
+  width: 20rem;
+}
+
+.overflow-hidden {
+  overflow: hidden;
+}
+
+.rounded {
+  border-radius: 0.25rem;
+}
+
+.border-current {
+  border-color: currentColor;
+}
+
+.bg-slate-400 {
   --tw-bg-opacity: 1;
-  background-color: rgb(74 222 128 / var(--tw-bg-opacity));
+  background-color: rgb(148 163 184 / var(--tw-bg-opacity));
 }
 
 .p-2 {
@@ -564,4 +588,19 @@ video {
 
 .font-bold {
   font-weight: 700;
+}
+
+:root {
+  color-scheme: light dark;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  display: grid;
+  place-content: center;
+  height: 100vh;
+  padding: 36px 36px 100px 36px;
+  grid-template-rows: 1fr;
 }
