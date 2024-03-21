@@ -1,19 +1,14 @@
-# Real-Time Chat Application 
+# Real-Time Chat Application
 
 <div style="width: 100%" align="center"><img style="width: 15%" align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="80" height=60"/>
 <img  style="width: 15%" align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="60"/>
 
   <img  style="width: 15%" align="bottom" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="40" />
- 
 
   <img  style="width:15%" align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" alt="socketio" height="65"/>
 
-
   <img  style="width:15%" align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="65"/>
 </div>
-
-
-
 
 💬Welcome to my real-time chat application! This application allows users to log in and chat with others in real time. It's built with the aim to explore the potential of **SQL** databases and the versatility of **Socket.io**. The application leverages **Node.js** server for its backend and seamlessly integrates with Socket.io.
 
@@ -28,7 +23,7 @@
 - **Node.js:** Backend server environment.
 - **Socket.io:** Facilitates real-time, bidirectional communication between web clients and servers.
 - **SQL Database:** Stores user credentials and chat history securely.
-- **HTML/Tailwind/TypeScript:** Quick Frontend development stack.
+- **HTML/Tailwind/TypeScript:** Quick Frontend development stack. I decided to add Tailwind to practice different ways of configuring a project apart from the usual ones as Vite, Next or a React project.
 
 ## How to Use
 

@@ -5,9 +5,10 @@ const port = process.env.PORT ?? 3000;
 
 const app = express();
 app.use(logger("dev"));
+app.use(express.static(process.cwd() + "/src/client"));
 
 app.get("/", (_req, res) => {
-  res.sendFile(process.cwd() + "/client/index.html");
+  res.sendFile(process.cwd() + "/src/client/index.html");
 });
 
 app.listen(port, () => {
