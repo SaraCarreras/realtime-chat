@@ -28,7 +28,7 @@
 - **Node.js:** Backend server environment.
 - **Socket.io:** Facilitates real-time, bidirectional communication between web clients and servers.
 - **SQL Database:** Stores user credentials and chat history securely.
-- **HTML/Tailwind/TypeScript:** Quick Frontend development stack.
+- **HTML/CSS/TypeScript:** Quick Frontend development stack.
 
 ## How to Use
 
